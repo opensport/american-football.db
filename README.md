@@ -1,14 +1,14 @@
-# nfl.db
+# Welcome to `nfl.db`
 
-Free open public domain National Football League (NFL) database 'n' schema
+A free open public domain National Football League (NFL) database 'n' schema
 (`nfl.db`) for use in any (programming) language
-(e.g. uses plain text fixtures/data sets)
+(e.g. uses plain text fixtures/data sets).
 
 
 ## Usage
 
-Build yourself a copy of the `nfl.db` from the plain text fixtures
-in three steps.
+Use the `sportdb` command line tool to build your own `nfl.db` copy
+from the plain text fixtures.  Example:
 
 Step 1:  Get a copy of the `world.db` fixtures
 
@@ -23,13 +23,7 @@ Step 3:  Let's build the `nfl.db`
     $ sportdb setup --include ./nfl.db --worldinclude ./world.db
 
 That's it.
-
-
-## Command Line Tool
-
-Use the `sportdb` command line tool to build your own `sport.db` copy.
 See the [`sportdb` command line tool project](https://github.com/geraldb/sport.db.ruby) for more.
-
 
 
 
