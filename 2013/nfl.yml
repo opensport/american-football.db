@@ -1,0 +1,41 @@
+########################################
+# National Football League (NFL) 2013
+
+league: nfl
+season: 2013
+start_at: 2013-09-05
+
+
+teams:
+- nyjets
+- newengland
+- bufbills
+- miami
+- baltimore
+- cincinnati
+- steelers
+- cleveland
+- houston
+- indianapolis
+- tennessee
+- jacksonville
+- sandiego
+- denver
+- oakland
+- kansascity
+- nygiants
+- phieagles
+- dalcowboys
+- washington
+- chibears
+- greenbay
+- minnesota
+- detlions
+- atlanta
+- tbbuccaneers
+- neworleans
+- carpanthers
+- sf49ers
+- seattle
+- arizona
+- stlrams

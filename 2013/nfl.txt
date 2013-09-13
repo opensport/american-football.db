@@ -1,0 +1,17 @@
+##############################################
+# National Football League (NFL) 2013
+
+
+#########
+# Regular season / September 5, 2013 - December 29, 2013
+
+
+# to be done; add fixtures here
+
+
+#########
+# Playoffs / Start - January 4, 2014
+
+#############
+# Super Bowl XLVIII //  February 2, 2014 - MetLife Stadium, East Rutherford, New Jersey
+
