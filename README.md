@@ -20,7 +20,7 @@ Step 2:  Get a copy the `nfl.db` fixtures
 
 Step 3:  Let's build the `football.db`
 
-    $ sportdb setup --include ./football.db --worldinclude ./world.db
+    $ sportdb setup --include ./american-football.db --worldinclude ./world.db
 
 That's it.
 See the [`sportdb` command line tool project](https://github.com/geraldb/sport.db.ruby) for more.
