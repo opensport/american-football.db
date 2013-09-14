@@ -14,7 +14,7 @@ Step 1:  Get a copy of the `world.db` fixtures
 
     $ git clone git://github.com/geraldb/world.db.git
 
-Step 2:  Get a copy the `nfl.db` fixtures
+Step 2:  Get a copy of the `american-football.db` fixtures
 
     $ git clone git://github.com/geraldb/american-football.db.git
 
