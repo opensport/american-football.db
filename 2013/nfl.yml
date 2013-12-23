@@ -5,6 +5,9 @@ league: nfl
 season: 2013
 start_at: 2013-09-05
 
+fixtures:
+- nfl
+- nfl_playoffs
 
 teams:
 - nyjets

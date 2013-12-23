@@ -1,0 +1,36 @@
+##############################################
+# National Football League (NFL) 2013/14
+#   Playoffs / January 4, 2014-
+
+
+(18) Round 18 - Wild Card Playoffs    (Knockout)   // add date here
+
+## Jan/??     (AFC)   # 
+## Jan/??     (AFC)   #
+
+## Jan/??    (NFC)   #  
+## Jan/??   (NFC)  # 
+
+(19) Round 19 - Divisional Playoffs  (Knockout)   // add date here
+
+## Jan/??     (AFC)  # 
+## Jan/??   (AFC)  #  
+
+## Jan/??    (NFC) #  
+## Jan/??       (NFC) # 
+
+
+(20) Round 20 - Conference Championships (Knockout)   // add date here
+
+## Jan/19    (AFC Championship)   #  
+## Jan/19    (NFC Championsip)    #  
+
+
+
+##########################
+# Super Bowl XLVIII
+
+(21) Round 21 - Super Bowl XLVIII  (Knockout)  //  February 2
+
+## Feb/2       # MetLife Stadium, East Rutherford, New Jersey
+

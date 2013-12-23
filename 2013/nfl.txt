@@ -7,6 +7,12 @@
 # todo/fix: allow-if no matchdate-use match date of last game !!!!!!!! in round (check must be last match in round!!!)
 
 
+##
+# note: amercian football (nfl) convention is  the home team gets listed last
+#   Atlanta @ San Francisco  (reads like @ San Francisco)  -  San Franscisco is the _home_ team
+# - todo: move note to links.md
+
+
 #########
 # Regular season / September 5, 2013-December 29, 2013
 
@@ -79,8 +85,7 @@ Sun Dec/22  Pittsburgh   38-31  Green Bay
 Sun Dec/22  Oakland      13-26  San Diego
 Sun Dec/22  Chicago      11-54  Philadelphia
 
-Mon Dec/23   Atlanta @ San Francisco    # check if fx is reverse e.g. at San Fr-At
-
+Mon Dec/23   Atlanta @ San Francisco
 
 Round 17 - Week 17  // date here
 
@@ -100,14 +105,4 @@ Sun Dec/29  Buffalo       @ New England
 Sun Dec/29  Denver        @ Oakland
 Sun Dec/29  Green Bay     @ Chicago
 Sun Dec/29  Philadelphia  @ Dallas
-
-
-
-#########
-# Playoffs / Start-January 4, 2014
-
-
-
-#############
-# Super Bowl XLVIII //  February 2, 2014-MetLife Stadium, East Rutherford, New Jersey
 
