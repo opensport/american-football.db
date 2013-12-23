@@ -2,12 +2,13 @@
 # all fixtures
 
 leagues:
-  - leagues
+- leagues
 
 teams:
-  - teams_afc
-  - teams_nfc
+- teams_afc
+- teams_nfc
 
 2013:
-  - 2013/nfl
+- 2013/nfl
+
 

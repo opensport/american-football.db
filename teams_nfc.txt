@@ -1,23 +1,29 @@
 #####################################################
 # NFL Teams / National Football Conference (NFC)
 
-nygiants,     New York Giants|Giants,      NFC East, NYG, city:newyork
-phieagles, Philadelphia Eagles|Eagles,  NFC East, PHI, city:philadelphia
-dalcowboys,       Dallas Cowboys|Cowboys,       NFC East, DAL, city:dallas
-washington,   Washington Redskins|Redskins,  NFC East, WAS, city:washington
+#
+# todo: check if abbreviation (matcher) work w/ two letters e.g. NE instead of NE_
+## todo: check if number in key works e.g. sf49ers
+# todo: fix - make country us default (no need to specify - how??)
 
-chibears,      Chicago Bears|Bears,     NFC North,  CHI, city:chicago
-greenbay,     Green Bay Packers|Packers, NFC North,  GB_, city:greenbay
-minnesota,    Minnesota Vikings|Vikings, NFC North,  MIN, city:minneapolis
-detlions,      Detroit Lions|Lions,     NFC North,  DET, city:detroit
 
-atlanta,      Atlanta Falcons|Falcons,       NFC South, ATL, city:atlanta
-tbbuccaneers,     Tampa Bay Buccaneers|Buccaneers,  NFC South, TB_, city:tampa
-neworleans,   New Orleans Saints|Saints,    NFC South, NO_, city:neworleans
-carpanthers,     Carolina Panthers|Panthers,     NFC South, CAR, city:charlotte
+nygiants,     New York Giants|Giants,      NFC East, NYG, city:newyork, us
+phieagles, Philadelphia Eagles|Eagles,  NFC East, PHI, city:philadelphia, us
+dalcowboys,       Dallas Cowboys|Cowboys,       NFC East, DAL, city:dallas, us
+washington,   Washington Redskins|Redskins,  NFC East, WAS, city:washington, us
 
-sf49ers, San Francisco 49ers|49ers,  NFC West,  SF_,  city:sanfrancisco
-seattle,      Seattle Seahawks|Seahawks,     NFC West,  SEA,  city:seattle
-arizona,      Arizona Cardinals|Cardinals,    NFC West,  ARI,  city:phoenix
-stlrams,      St. Louis Rams|Rams,       NFC West,  STL,  city:stlouis
+chibears,      Chicago Bears|Bears,     NFC North,  CHI, city:chicago, us
+greenbay,     Green Bay Packers|Packers, NFC North,  GB_, city:greenbay, us
+minnesota,    Minnesota Vikings|Vikings, NFC North,  MIN, city:minneapolis, us
+detlions,      Detroit Lions|Lions,     NFC North,  DET, city:detroit, us
+
+atlanta,      Atlanta Falcons|Falcons,       NFC South, ATL, city:atlanta, us
+tbbuccaneers,     Tampa Bay Buccaneers|Buccaneers,  NFC South, TB_, city:tampa, us
+neworleans,   New Orleans Saints|Saints,    NFC South, NO_, city:neworleans, us
+carpanthers,     Carolina Panthers|Panthers,     NFC South, CAR, city:charlotte, us
+
+sffortyniners, San Francisco 49ers|49ers,  NFC West,  SF_,  city:sanfrancisco, us
+seattle,       Seattle Seahawks|Seahawks,     NFC West,  SEA,  city:seattle, us
+arizona,       Arizona Cardinals|Cardinals,    NFC West,  ARI,  city:phoenix, us
+stlrams,       St. Louis Rams|Rams,       NFC West,  STL,  city:stlouis, us
 
