@@ -2,28 +2,27 @@
 # NFL Teams / American Football Conference (AFC)
 
 #
-# todo: check if abbreviation (matcher) work w/ two letters e.g. NE instead of NE_
 # todo: fix - make country us default (no need to specify - how??)
 #
 # todo: fix - use "new/modern" city style e.g. New York | NY ??
 
 
-nyjets,       New York Jets|NY Jets|Jets,                    AFC East,  NYJ, city:newyork, us
-newengland,   New England Patriots|New England|Patriots, AFC East,  NE_, city:boston, us
-bufbills,      Buffalo Bills|Buffalo|Bills,            AFC East,  BUF, city:buffalo, us
-miami,        Miami Dolphins|Miami|Dolphins,             AFC East,  MIA, city:miami, us
+nyjets,       New York Jets|NY Jets|Jets,                    AFC East,  NYJ, www.newyorkjets.com, city:newyork, us
+newengland,   New England Patriots|New England|Patriots, AFC East,  NE, www.patriots.com, city:boston, us
+bufbills,      Buffalo Bills|Buffalo|Bills,            AFC East,  BUF, www.buffalobills.com, city:buffalo, us
+miami,        Miami Dolphins|Miami|Dolphins,             AFC East,  MIA, www.miamidolphins.com, city:miami, us
 
-baltimore,    Baltimore Ravens|Baltimore|Ravens,    AFC North,  BAL,  city:baltimore, us
-cincinnati,   Cincinnati Bengals|Cincinnati|Bengals,  AFC North,  CIN,  city:cincinnati, us
-steelers,     Pittsburgh Steelers|Pittsburgh|Steelers, AFC North,  PIT,  city:pittsburgh, us
-cleveland,    Cleveland Browns|Cleveland|Browns,    AFC North,  CLE,  city:cleveland, us
+baltimore,    Baltimore Ravens|Baltimore|Ravens,    AFC North,  BAL,  www.baltimoreravens.com, city:baltimore, us
+cincinnati,   Cincinnati Bengals|Cincinnati|Bengals,  AFC North,  CIN,  www.bengals.com,  city:cincinnati, us
+steelers,     Pittsburgh Steelers|Pittsburgh|Steelers, AFC North,  PIT,  www.clevelandbrowns.com, city:pittsburgh, us
+cleveland,    Cleveland Browns|Cleveland|Browns,    AFC North,  CLE,  www.steelers.com, city:cleveland, us
 
-houston,      Houston Texans|Houston|Texans,       AFC South,  HOU,  city:houston, us
-indianapolis, Indianapolis Colts|Indianapolis|Colts,   AFC South,  IND,  city:indianapolis, us
-tennessee,    Tennessee Titans|Tennessee|Titans,     AFC South,  TEN,  city:nashville, us
-jacksonville, Jacksonville Jaguars|Jacksonville|Jaguars, AFC South,  JAC,  city:jacksonville, us
+houston,      Houston Texans|Houston|Texans,       AFC South,  HOU,   www.houstontexans.com,  city:houston, us
+indianapolis, Indianapolis Colts|Indianapolis|Colts,   AFC South,  IND,  www.colts.com, city:indianapolis, us
+tennessee,    Tennessee Titans|Tennessee|Titans,     AFC South,  TEN,  www.titansonline.com, city:nashville, us
+jacksonville, Jacksonville Jaguars|Jacksonville|Jaguars, AFC South,  JAC, www.jaguars.com, city:jacksonville, us
 
-sandiego,     San Diego Chargers|San Diego|Chargers,       AFC West, SD_,  city:sandiego, us
-denver,       Denver Broncos|Denver|Broncos,              AFC West, DEN,  city:denver, us
-oakland,      Oakland Raiders|Oakland|Raiders,           AFC West, OAK,   city:oakland, us
-kansascity,   Kansas City Chiefs|Kansas City|Chiefs, AFC West,  KC_, city:kansascity, us
+sandiego,     San Diego Chargers|San Diego|Chargers,       AFC West, SD,  www.chargers.com, city:sandiego, us
+denver,       Denver Broncos|Denver|Broncos,              AFC West, DEN,  www.denverbroncos.com, city:denver, us
+oakland,      Oakland Raiders|Oakland|Raiders,           AFC West, OAK,  www.raiders.com,  city:oakland, us
+kansascity,   Kansas City Chiefs|Kansas City|Chiefs, AFC West,  KC, www.kcchiefs.com, city:kansascity, us

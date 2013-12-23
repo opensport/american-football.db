@@ -36,7 +36,29 @@ Mon Sep/9  Houston       31-28  San Diego
 
 ##############
 # to be done; add more fixtures here
-#################
+
+
+
+Round 15 - Week 15   // add date here
+
+Thu Dec/12  San Diego      27-20  Denver
+
+Sun Dec/15  Buffalo        27-20  Jacksonville
+Sun Dec/15  San Francisco  33-14  Tampa Bay
+Sun Dec/15  Seattle        23-0   NY Giants
+Sun Dec/15  Philadelphia   30-48  Minnesota
+Sun Dec/15  New England    20-24  Miami
+Sun Dec/15  Houston         3-25  Indianapolis
+Sun Dec/15  Chicago        38-31  Cleveland
+Sun Dec/15  Washington     26-27  Atlanta
+Sun Dec/15  NY Jets        20-30  Carolina
+Sun Dec/15  Kansas City    56-31  Oakland
+Sun Dec/15  New Orleans    16-27  St. Louis
+Sun Dec/15  Arizona        37-34  Tennessee  #  OT - overtime!!
+Sun Dec/15  Green Bay      37-36  Dallas
+Sun Dec/15  Cincinnati     20-30  Pittsburgh
+
+Mon Dec/16  Baltimore      18-16  Detroit
 
 
 Round 16 - Week 16  //  date here
@@ -51,8 +73,8 @@ Sun Dec/22  Minnesota    14-42  Cincinnati
 Sun Dec/22  Denver       37-13  Houston
 Sun Dec/22  Tennessee    20-16  Jacksonville
 Sun Dec/22  Arizona      17-10  Seattle
-Sun Dec/22  NY Giants    23-20  Detroit      # OT  - overtime !!!
-Sun Dec/22  New England  41-7   Baltimore
+Sun Dec/22  NY Giants    23-20  Detroit      #  (3-0, 10-3, 0-9, 7-8, 3-0 OT)   OT  - overtime !!!
+Sun Dec/22  New England  41-7   Baltimore    #  (14-0, 3-0, 3-0, 21-7)
 Sun Dec/22  Pittsburgh   38-31  Green Bay
 Sun Dec/22  Oakland      13-26  San Diego
 Sun Dec/22  Chicago      11-54  Philadelphia

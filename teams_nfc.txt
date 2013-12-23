@@ -2,27 +2,26 @@
 # NFL Teams / National Football Conference (NFC)
 
 #
-# todo: check if abbreviation (matcher) work w/ two letters e.g. NE instead of NE_
 ## todo: check if number in key works e.g. sf49ers
 # todo: fix - make country us default (no need to specify - how??)
 
 
-nygiants,     New York Giants|NY Giants|Giants,      NFC East, NYG, city:newyork, us
-phieagles, Philadelphia Eagles|Philadelphia|Eagles,  NFC East, PHI, city:philadelphia, us
-dalcowboys,       Dallas Cowboys|Dallas|Cowboys,       NFC East, DAL, city:dallas, us
-washington,   Washington Redskins|Washington|Redskins,  NFC East, WAS, city:washington, us
+nygiants,     New York Giants|NY Giants|Giants,      NFC East, NYG, www.giants.com, city:newyork, us
+phieagles, Philadelphia Eagles|Philadelphia|Eagles,  NFC East, PHI, www.philadelphiaeagles.com, city:philadelphia, us
+dalcowboys,       Dallas Cowboys|Dallas|Cowboys,       NFC East, DAL, www.dallascowboys.com, city:dallas, us
+washington,   Washington Redskins|Washington|Redskins,  NFC East, WAS, www.redskins.com, city:washington, us
 
 chibears,      Chicago Bears|Chicago|Bears,     NFC North,  CHI, city:chicago, us
-greenbay,     Green Bay Packers|Green Bay|Packers, NFC North,  GB_, city:greenbay, us
+greenbay,     Green Bay Packers|Green Bay|Packers, NFC North,  GB, city:greenbay, us
 minnesota,    Minnesota Vikings|Minnesota|Vikings, NFC North,  MIN, city:minneapolis, us
 detlions,      Detroit Lions|Detroit|Lions,     NFC North,  DET, city:detroit, us
 
 atlanta,      Atlanta Falcons|Atlanta|Falcons,       NFC South, ATL, city:atlanta, us
-tbbuccaneers,     Tampa Bay Buccaneers|Tampa Bay|Buccaneers,  NFC South, TB_, city:tampa, us
-neworleans,   New Orleans Saints|New Orleans|Saints,    NFC South, NO_, city:neworleans, us
+tbbuccaneers,     Tampa Bay Buccaneers|Tampa Bay|Buccaneers,  NFC South, TB, city:tampa, us
+neworleans,   New Orleans Saints|New Orleans|Saints,    NFC South, NO, city:neworleans, us
 carpanthers,     Carolina Panthers|Carolina|Panthers,     NFC South, CAR, city:charlotte, us
 
-sffortyniners, San Francisco 49ers|San Francisco|49ers,  NFC West,  SF_,  city:sanfrancisco, us
+sffortyniners, San Francisco 49ers|San Francisco|49ers,  NFC West,  SF,  city:sanfrancisco, us
 seattle,       Seattle Seahawks|Seattle|Seahawks,     NFC West,  SEA,  city:seattle, us
 arizona,       Arizona Cardinals|Arizona|Cardinals,    NFC West,  ARI,  city:phoenix, us
 stlrams,       St. Louis Rams|St. Louis|Rams,       NFC West,  STL,  city:stlouis, us
