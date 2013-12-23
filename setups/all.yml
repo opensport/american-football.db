@@ -12,7 +12,8 @@ teams:
 # allow fixture 2013/nfl
 #  as workaround use !
 
+2012:
+- amercian-football!/2012/nfl
+
 2013:
 - amercian-football!/2013/nfl
-
-

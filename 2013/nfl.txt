@@ -1,5 +1,5 @@
 ##############################################
-# National Football League (NFL) 2013
+# National Football League (NFL) 2013/14
 
 ####
 # todo/fix: allow Week 1  Week 2 etc. four Round 1, Round 2 etc. in parser

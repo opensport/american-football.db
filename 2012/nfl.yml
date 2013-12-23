@@ -1,0 +1,41 @@
+########################################
+# National Football League (NFL) 2012/13
+
+league: nfl
+season: 2012
+start_at: 2012-09-05
+
+
+teams:
+- nyjets
+- newengland
+- bufbills
+- miami
+- baltimore
+- cincinnati
+- steelers
+- cleveland
+- houston
+- indianapolis
+- tennessee
+- jacksonville
+- sandiego
+- denver
+- oakland
+- kansascity
+- nygiants
+- phieagles
+- dalcowboys
+- washington
+- chibears
+- greenbay
+- minnesota
+- detlions
+- atlanta
+- tbbuccaneers
+- neworleans
+- carpanthers
+- sffortyniners
+- seattle
+- arizona
+- stlrams
