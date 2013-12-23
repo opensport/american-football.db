@@ -1,17 +1,91 @@
 ##############################################
 # National Football League (NFL) 2013
 
-
-#########
-# Regular season / September 5, 2013 - December 29, 2013
-
-
-# to be done; add fixtures here
+####
+# todo/fix: allow Week 1  Week 2 etc. four Round 1, Round 2 etc. in parser
+#
+# todo/fix: allow-if no matchdate-use match date of last game !!!!!!!! in round (check must be last match in round!!!)
 
 
 #########
-# Playoffs / Start - January 4, 2014
+# Regular season / September 5, 2013-December 29, 2013
+
+
+Round 1 - Week 1   // date here
+
+Thu Sep/5  Baltimore     27-49  Denver
+
+Sun Sep/8  New England   23-21  Buffalo
+Sun Sep/8  Tennessee     16-9   Pittsburgh
+Sun Sep/8  Atlanta       17-23  New Orleans
+Sun Sep/8  Tampa Bay     17-18  NY Jets
+Sun Sep/8  Kansas City   28-2   Jacksonville
+Sun Sep/8  Seattle       12-7   Carolina
+Sun Sep/8  Cincinnati    21-24  Chicago
+Sun Sep/8  Miami         23-10  Cleveland
+Sun Sep/8  Minnesota     24-34  Detroit
+Sun Sep/8  Oakland       17-21  Indianapolis
+Sun Sep/8  Green Bay     28-34  San Francisco
+Sun Sep/8  Arizona       24-27  St. Louis
+Sun Sep/8  NY Giants     31-36  Dallas
+
+Mon Sep/9  Philadelphia  33-27  Washington
+Mon Sep/9  Houston       31-28  San Diego
+
+
+
+##############
+# to be done; add more fixtures here
+#################
+
+
+Round 16 - Week 16  //  date here
+
+Sun Dec/22  Miami         0-19  Buffalo
+Sun Dec/22  New Orleans  13-17  Carolina
+Sun Dec/22  Dallas       24-23  Washington
+Sun Dec/22  Tampa Bay    13-23  St. Louis
+Sun Dec/22  Cleveland    13-24  NY Jets
+Sun Dec/22  Indianapolis 23-7   Kansas City
+Sun Dec/22  Minnesota    14-42  Cincinnati
+Sun Dec/22  Denver       37-13  Houston
+Sun Dec/22  Tennessee    20-16  Jacksonville
+Sun Dec/22  Arizona      17-10  Seattle
+Sun Dec/22  NY Giants    23-20  Detroit      # OT  - overtime !!!
+Sun Dec/22  New England  41-7   Baltimore
+Sun Dec/22  Pittsburgh   38-31  Green Bay
+Sun Dec/22  Oakland      13-26  San Diego
+Sun Dec/22  Chicago      11-54  Philadelphia
+
+Mon Dec/23   Atlanta @ San Francisco    # check if fx is reverse e.g. at San Fr-At
+
+
+Round 17 - Week 17  // date here
+
+Sun Dec/29  Cleveland     @ Pittsburgh
+Sun Dec/29  Washington    @ NY Giants
+Sun Dec/29  Detroit       @ Minnesota
+Sun Dec/29  NY Jets       @ Miami
+Sun Dec/29  Jacksonville  @ Indianapolis
+Sun Dec/29  Houston       @ Tennessee
+Sun Dec/29  Baltimore     @ Cincinnati
+Sun Dec/29  Carolina      @ Atlanta
+Sun Dec/29  St. Louis     @ Seattle
+Sun Dec/29  Kansas City   @ San Diego
+Sun Dec/29  San Francisco @ Arizona
+Sun Dec/29  Tampa Bay     @ New Orleans
+Sun Dec/29  Buffalo       @ New England
+Sun Dec/29  Denver        @ Oakland
+Sun Dec/29  Green Bay     @ Chicago
+Sun Dec/29  Philadelphia  @ Dallas
+
+
+
+#########
+# Playoffs / Start-January 4, 2014
+
+
 
 #############
-# Super Bowl XLVIII //  February 2, 2014 - MetLife Stadium, East Rutherford, New Jersey
+# Super Bowl XLVIII //  February 2, 2014-MetLife Stadium, East Rutherford, New Jersey
 

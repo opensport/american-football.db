@@ -8,7 +8,11 @@ teams:
 - teams_afc
 - teams_nfc
 
+###### fix:
+# allow fixture 2013/nfl
+#  as workaround use !
+
 2013:
-- 2013/nfl
+- amercian-football!/2013/nfl
 
 

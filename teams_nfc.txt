@@ -7,23 +7,23 @@
 # todo: fix - make country us default (no need to specify - how??)
 
 
-nygiants,     New York Giants|Giants,      NFC East, NYG, city:newyork, us
-phieagles, Philadelphia Eagles|Eagles,  NFC East, PHI, city:philadelphia, us
-dalcowboys,       Dallas Cowboys|Cowboys,       NFC East, DAL, city:dallas, us
-washington,   Washington Redskins|Redskins,  NFC East, WAS, city:washington, us
+nygiants,     New York Giants|NY Giants|Giants,      NFC East, NYG, city:newyork, us
+phieagles, Philadelphia Eagles|Philadelphia|Eagles,  NFC East, PHI, city:philadelphia, us
+dalcowboys,       Dallas Cowboys|Dallas|Cowboys,       NFC East, DAL, city:dallas, us
+washington,   Washington Redskins|Washington|Redskins,  NFC East, WAS, city:washington, us
 
-chibears,      Chicago Bears|Bears,     NFC North,  CHI, city:chicago, us
-greenbay,     Green Bay Packers|Packers, NFC North,  GB_, city:greenbay, us
-minnesota,    Minnesota Vikings|Vikings, NFC North,  MIN, city:minneapolis, us
-detlions,      Detroit Lions|Lions,     NFC North,  DET, city:detroit, us
+chibears,      Chicago Bears|Chicago|Bears,     NFC North,  CHI, city:chicago, us
+greenbay,     Green Bay Packers|Green Bay|Packers, NFC North,  GB_, city:greenbay, us
+minnesota,    Minnesota Vikings|Minnesota|Vikings, NFC North,  MIN, city:minneapolis, us
+detlions,      Detroit Lions|Detroit|Lions,     NFC North,  DET, city:detroit, us
 
-atlanta,      Atlanta Falcons|Falcons,       NFC South, ATL, city:atlanta, us
-tbbuccaneers,     Tampa Bay Buccaneers|Buccaneers,  NFC South, TB_, city:tampa, us
-neworleans,   New Orleans Saints|Saints,    NFC South, NO_, city:neworleans, us
-carpanthers,     Carolina Panthers|Panthers,     NFC South, CAR, city:charlotte, us
+atlanta,      Atlanta Falcons|Atlanta|Falcons,       NFC South, ATL, city:atlanta, us
+tbbuccaneers,     Tampa Bay Buccaneers|Tampa Bay|Buccaneers,  NFC South, TB_, city:tampa, us
+neworleans,   New Orleans Saints|New Orleans|Saints,    NFC South, NO_, city:neworleans, us
+carpanthers,     Carolina Panthers|Carolina|Panthers,     NFC South, CAR, city:charlotte, us
 
-sffortyniners, San Francisco 49ers|49ers,  NFC West,  SF_,  city:sanfrancisco, us
-seattle,       Seattle Seahawks|Seahawks,     NFC West,  SEA,  city:seattle, us
-arizona,       Arizona Cardinals|Cardinals,    NFC West,  ARI,  city:phoenix, us
-stlrams,       St. Louis Rams|Rams,       NFC West,  STL,  city:stlouis, us
+sffortyniners, San Francisco 49ers|San Francisco|49ers,  NFC West,  SF_,  city:sanfrancisco, us
+seattle,       Seattle Seahawks|Seattle|Seahawks,     NFC West,  SEA,  city:seattle, us
+arizona,       Arizona Cardinals|Arizona|Cardinals,    NFC West,  ARI,  city:phoenix, us
+stlrams,       St. Louis Rams|St. Louis|Rams,       NFC West,  STL,  city:stlouis, us
 
